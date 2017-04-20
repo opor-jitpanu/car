@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Project_Isad">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="test" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/project?zeroDateTimeBehavior=convertToNull" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="project" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/project?zeroDateTimeBehavior=convertToNull" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="test2" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/project?zeroDateTimeBehavior=convertToNull" username="root"/>
+</Context>
